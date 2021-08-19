@@ -1,0 +1,4 @@
+com\test\config\TestConfig.class
+com\test\model\TestDto.class
+com\test\controller\TestController.class
+com\test\TestApplication.class
